@@ -26,12 +26,6 @@
       "csrfProtection": false,
       "destination": "Northwind",
       "target": "$1"
-    },
-    {
-      "source": "^/ES5/(.*)$",
-      "authenticationType": "basic",
-      "destination": "ES5",
-      "target": "$1"
     }
   ]
 }

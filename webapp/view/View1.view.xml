@@ -5,7 +5,7 @@
     xmlns:f="sap.ui.layout.form">
     <App id="WiproApp" >
         <pages>
-            <Page title="BTP Cohort Integration Training1">
+            <Page title="BTP Cohort Integration Training">
                 <content>
                     <IconTabBar id="idTopLevelIconBar" selectedKey="db">
                         <items>
